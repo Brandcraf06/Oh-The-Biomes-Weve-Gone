@@ -1,3 +1,6 @@
+# 3.0.0
+- Update to 1.21.4
+
 # 2.3.7
 - Add Right-Clicking on Baby Villager With Weakness Potion with a Carved Pumpkin to turn them into a Pumpkin Warden
 - Remove BWGItemTags for Dye Conversions, Replace with Explicit Recipes (Like Vanilla)
